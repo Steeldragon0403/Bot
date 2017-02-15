@@ -1,0 +1,26 @@
+{
+  "name": "bot_test",
+  "version": "1.0.0",
+  "description": "test bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steeldragon0403/Bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "vmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steeldragon0403/Bot/issues"
+  },
+  "homepage": "https://github.com/Steeldragon0403/Bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "restify": "^4.3.0"
+  }
+}
